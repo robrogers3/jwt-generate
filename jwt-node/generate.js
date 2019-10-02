@@ -1,7 +1,7 @@
 /**
  * Usage:
- * $ node generate.js --key="private.key" --issuer_id="YOUR_ISSUER_ID"
- * $ node generate.js --key="private.key" --issuer_id="YOUR_ISSUER_ID" --username="a_username"
+ *
+ * $ node generate.js --key=private.key --issuer_id=YOUR_ISSUER_ID --username=a_username
  */
 
 const fs = require('fs')

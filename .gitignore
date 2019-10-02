@@ -45,3 +45,9 @@ vendor
 
 #keys
 *.key
+
+#python
+jwt-python/.Python
+jwt-python/bin
+jwt-python/include
+jwt-python/lib
