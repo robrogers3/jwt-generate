@@ -1,14 +1,15 @@
 {
-  "name": "jwt-gennerate",
+  "name": "jwt-token",
   "version": "1.0.0",
-  "description": "",
+  "description": "sample script to generate json web tokens for yodlee api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node generate.js"
   },
-  "author": "",
+  "author": "Rob Rogers, Yodlee",
   "license": "ISC",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "yargs": "^14.0.0"
   }
 }
