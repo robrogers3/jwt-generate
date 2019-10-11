@@ -1,6 +1,6 @@
 # JSON Web Token Generation Scripts
 
-This repositoriy includes sample progroms showing how to mint (create) JSON Web Tokens (JWTs) in:
+This repositoriy includes sample programs showing how to mint (create) JSON Web Tokens (JWTs) in:
 
 - [Java](jwt-java)
 - [Node](jwt-node)
